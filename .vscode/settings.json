@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "eslint.workingDirectories": [
+        "./jobot-web"
+    ]
+}
